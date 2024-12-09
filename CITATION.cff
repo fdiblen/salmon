@@ -1,0 +1,16 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+title: "salmon"
+authors:
+  - family-names: Diblen
+    given-names: FAruk
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2024-12-09
+version: "0.1.0"
+repository-code: "https://github.com/fdiblen/salmon"
+keywords:
+  - "fish"
+  - "sea"
+  - "salt"
+message: "If you use this software, please cite it using these metadata."
