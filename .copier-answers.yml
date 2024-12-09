@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.6.1
+_src_path: https://github.com/nlesc/python-template.git
+copyright_holder: FAruk Diblen
+email: fdiblen@nlesc.nl
+full_name: FAruk Diblen
+github_organization: fdiblen
+keywords: fish,sea,salt
+license: Apachev2
+package_name: salmon
+package_short_description: this is a fishy software
+template_profile: minimum
+version: 0.1.0
